@@ -5,7 +5,8 @@ body {
 }
 
 .header,
-.footer {
+.footer,
+.hero {
     display: flex;
     background-color: #1F2937;
     color: white;
@@ -22,6 +23,22 @@ body {
 a {
     color: grey;
     text-decoration: none;
+}
+
+div.hero h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8
+}
+
+div.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+div.header h3 {
+    font-size: 24px;
+    color: #F9FAF8
 }
 
 button {
