@@ -4,6 +4,12 @@ body {
     flex-flow: column nowrap;
 }
 
+body > * {
+    padding-left: 200px;
+    padding-right: 200px;
+    position: relative;
+}
+
 .header,
 .footer,
 .hero {
