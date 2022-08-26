@@ -1,0 +1,11 @@
+.header,
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
