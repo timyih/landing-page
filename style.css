@@ -1,5 +1,7 @@
 body {
     font-family: roboto, sans-serif;
+    display: flex;
+    flex-flow: column nowrap;
 }
 
 .header,
@@ -7,6 +9,14 @@ body {
     display: flex;
     background-color: #1F2937;
     color: white;
+}
+
+.footer {
+    margin-top: auto;
+}
+
+.headerlinks {
+    margin-left: auto;
 }
 
 a {
