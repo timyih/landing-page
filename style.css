@@ -12,6 +12,15 @@ body {
     color: white;
 }
 
+.header {
+    align-items: center;
+
+}
+
+.hero {
+    flex-direction: column;
+}
+
 .footer {
     margin-top: auto;
 }
@@ -21,8 +30,8 @@ body {
 }
 
 a {
-    color: grey;
     text-decoration: none;
+    padding: 10px;
 }
 
 div.hero h1 {
@@ -31,7 +40,7 @@ div.hero h1 {
     color: #F9FAF8
 }
 
-div.hero p {
+div.hero p, a {
     font-size: 18px;
     color: #E5E7EB;
 }
