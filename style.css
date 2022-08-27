@@ -70,6 +70,10 @@ img {
     height: 150px;
 }
 
+.section2 {
+    background-color: lightgrey;
+}
+
 button {
     background-color: #3882f6;
     border: none;
