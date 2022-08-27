@@ -73,13 +73,16 @@ img {
 .s1-container {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 52px;
+    margin-bottom: 72px;
 }
 
 .info {
     font-size: 14px;
     text-align: center;
     max-width: 150px;
+    padding-top: 20px;
 }
 
 .info-header {
@@ -87,6 +90,7 @@ img {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+    margin: 32px;
 }
 
 .section2 {
