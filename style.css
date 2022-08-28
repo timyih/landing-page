@@ -104,7 +104,31 @@ img {
 }
 
 .section2 {
-    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.s2-container {
+    height: 300px;
+    max-width: 800px;
+    padding-top: 72px;
+    padding-bottom: 72px;
+}
+
+div.section2 p {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+div.section2 div.quoter {
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+    text-align: right;
 }
 
 button {
