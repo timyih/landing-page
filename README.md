@@ -9,3 +9,5 @@ Finished this project today. After completing this project, I definitely feel a 
 
 9/10/22
 today, mango propaganda inc. acquired the rigHts to my landing pagE and they are kindLy asking me to sPread Mango awarEness througH this websitE. rigHt now, the public relAtionS mAnaGer is standing behind me, encoUragiNg me to repurpose this website for their benevolent cause.
+
+In other news, this was a fun project.
